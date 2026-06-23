@@ -1,0 +1,50 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Open folder Office integration temporary files
+~$*
+
+# Tooling
+_ReSharper*/
+*.[Re]Sharper.user
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# Node/Vite/Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.*
+
+# Local SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Log files
+*.log
